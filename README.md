@@ -10,7 +10,7 @@ Proyecto web que simula una tienda en línea con funcionalidades como catálogo 
 - Panel de administración para CRUD de productos.
 
 **Tecnologías:**
-> Angular | Bootstrap | Java | Spring Boot | MySQL  
+> Angular 16| Bootstrap | Java | Spring Boot | MySQL  
 
 Este repositorio incluye los enlaces al frontend y backend del proyecto.
 
