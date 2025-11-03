@@ -1,4 +1,4 @@
-# E-commerce-App
+# 🛒 E-commerce-App
 
 Proyecto web que simula una tienda en línea con funcionalidades como catálogo de productos, carrito de compras, autenticación de usuarios y gestión de pedidos.
 
