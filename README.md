@@ -1,7 +1,5 @@
 # E-commerce-App
 
-# Aplicación E-commerce
-
 Proyecto web que simula una tienda en línea con funcionalidades como catálogo de productos, carrito de compras, autenticación de usuarios y gestión de pedidos.
 
 ## ✅ Características principales
@@ -10,8 +8,6 @@ Proyecto web que simula una tienda en línea con funcionalidades como catálogo 
 - transaccion y detalle de compras
 - Autenticación y autorización con roles (usuario / admin)
 - Panel de administración para CRUD de productos.
-
-
 
 **Tecnologías:**
 > Angular | Bootstrap | Java | Spring Boot | MySQL  
